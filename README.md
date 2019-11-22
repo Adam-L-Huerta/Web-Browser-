@@ -1,2 +1,2 @@
 # Web-Browser-
-Python Course - Web Browser using PyQT5
+Python Course Demo - Web Browser using PyQT5
